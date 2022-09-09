@@ -1,16 +1,16 @@
 ## About StakeBorg NFT-Tickets
 
-***The StakeBorg NFT-Tickets *** dApp, is a fictitious Web3 NFT-Ticketing system, build on top of the last Web3 Technologies to demonstrate that tickets in the form of NFTs can have important advantages compared to traditional tickets and aims for Proof of Concept purposes only.
+***The StakeBorg NFT-Tickets*** dApp, is a fictitious Web3 NFT-Ticketing system, build on top of the last Web3 Technologies to demonstrate that tickets in the form of NFTs can have important advantages compared to traditional tickets and aims for Proof of Concept purposes only.
 
-[Demo Video](https://drive.google.com/file/d/1LdpGBPF5pra2Uob1Bhz925vhoACAeYjj/edit) 
+--> [Demo Video](https://drive.google.com/file/d/1LdpGBPF5pra2Uob1Bhz925vhoACAeYjj/edit) 
 
-[Online demo](https://handy.ro)
+--> [Online demo](https://handy.ro)
 
 
 ## Features
 **Before Ticket purchase:**
-- The price. Each Badge/NFT can bring you a discount of a few accumulated percentages. e.g. Holder, Stacker, Diamond hands, DoerNFT, etc
-- Possibility to reserve a seat in the VIP area.
+- The price. Each Badge/NFT can bring you a discount of a few accumulated percentages. e.g. Holder, Stacker, Diamond hands, DoerNFT, etc.
+- Possibility to reserve a seat in the VIP area
 - Whitelisting, the possibility of having a time window (e.g. 72 hours) before the accessibility of public purchases
 
 **Before the event**
