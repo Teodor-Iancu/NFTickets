@@ -1,6 +1,6 @@
-## About "StakeBorg NFT-Tickets" dApp
+## About StakeBorg NFT-Tickets
 
-***The StakeBorg NFT-Tickets dApp*** is a fictitious Web3 NFT-Ticketing system, build on top of the last Web3 Technologies to demonstrate that tickets in the form of NFTs can have important advantages compared to traditional tickets that aims for Proof of Concept purposes only.
+***The StakeBorg NFT-Tickets *** dApp, is a fictitious Web3 NFT-Ticketing system, build on top of the last Web3 Technologies to demonstrate that tickets in the form of NFTs can have important advantages compared to traditional tickets and aims for Proof of Concept purposes only.
 
 [Demo Video](https://drive.google.com/file/d/1LdpGBPF5pra2Uob1Bhz925vhoACAeYjj/edit) 
 
@@ -8,13 +8,13 @@
 
 
 ## Features
-**Before purchase:**
+**Before Ticket purchase:**
 - The price. Each Badge/NFT can bring you a discount of a few accumulated percentages. e.g. Holder, Stacker, Diamond hands, DoerNFT, etc
 - Possibility to reserve a seat in the VIP area.
 - Whitelisting, the possibility of having a time window (e.g. 72 hours) before the accessibility of public purchases
 
 **Before the event**
-- Access and validation of presence via QR-Code from any device
+- Access and validation of presence via QR-Code from any device by a designated admin
 
 **After the event**
 - Proof of participation (the idea can also be extended to IRLMs)
@@ -25,14 +25,14 @@ The major difference is given by the fact that in web2 qualification, confirmati
 ## How to use
 The Dapp can be used by two different types of users: 
 
-**1. Anyone** (Tickets Owner):
+**1. By anyone** (Tickets Owner):
   - Seat reservation
   - Buy Tickets depend of the nr of seats you reserved
   - View Ticket on dApp and OpenSea
   - and more ideas (ToDo)
 
 
-**2. Admin** (Smart Contract Owner)
+**2. By admin** (Smart Contract Owner)
   - Operate the Check-In process with QR-Code from any device
   - Open/Close the Tickets-Sale (NFT Minting)
   - Set the Tickets price 
