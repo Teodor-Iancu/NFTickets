@@ -1,6 +1,6 @@
-## About StakeBorg NFT-Tickets
+## About NFTickets
 
-***The StakeBorg NFT-Tickets*** dApp, is a fictitious Web3 NFT-Ticketing system, build on top of the last Web3 Technologies to demonstrate that tickets in the form of NFTs can have important advantages compared to traditional tickets and aims for Proof of Concept purposes only.
+***The NFTickets*** dApp, is a fictitious Web3 NFT-Ticketing system, build on top of the last Web3 Technologies to demonstrate that tickets in the form of NFTs can have important advantages compared to traditional tickets and aims for Proof of Concept purposes only.
 
 --> [Demo Video](https://drive.google.com/file/d/1LdpGBPF5pra2Uob1Bhz925vhoACAeYjj/edit) 
 
@@ -57,10 +57,10 @@ For any questions please do not hesitate to contact us on our Discord community 
 Clone the repo
 
    ```sh
-   git clone https://github.com/Teodor-Iancu/stakeborg-talks-nft-tickets.git
+   git clone https://github.com/Teodor-Iancu/NFTickets.git
    ```
 
-Change directory to *stakeborg-talks-nft-tickets
+Change directory to *NFTickets
 
    ```sh
    cd stakeborg-talks-nft-tickets
