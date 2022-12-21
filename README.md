@@ -63,7 +63,7 @@ Clone the repo
 Change directory to *NFTickets
 
    ```sh
-   cd stakeborg-talks-nft-tickets
+   cd NFTickets
    ```
 
 Install packages
