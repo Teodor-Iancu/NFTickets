@@ -48,8 +48,7 @@ Contributions are welcome! Process for contributing is the following:
   - Send a pull request for the original project
   - Comment on the original issue that you have implemented a fix for it
 
-For any questions please do not hesitate to contact us on our Discord community server:
-[Discord community server](https://discord.com/invite/stakeborgdao)
+For any questions please do not hesitate to contact me: teodor@iancu.at
 
 
 ## Building and running demo
